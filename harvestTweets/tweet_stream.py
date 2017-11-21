@@ -2,10 +2,10 @@ from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 
-CONSUMER_KEY = 'MT6KMuqBegbfAxU8ZeGBxmIG5'
-CONSUMER_SECRET = 'VdRlAQxTqM1oWNDuW9etzWzmZIUwgJRA02REDyzzmRHYSYu72z'
-OAUTH_TOKEN = '3700798289-PBuFNcTWQwNBVAmk2IghTYPnLosmPxbCshLOE3n'
-OAUTH_TOKEN_SECRET = 'oQJrDYAHYOA4PqBia6a0uWHBikmwZfb2a975FpDYDrscf'
+CONSUMER_KEY = 
+CONSUMER_SECRET = '
+OAUTH_TOKEN = 
+OAUTH_TOKEN_SECRET = 
 
 keyword_list = ['python', 'java', 'c#', 'ruby']  # track list
 
